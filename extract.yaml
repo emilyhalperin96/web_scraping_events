@@ -1,0 +1,3 @@
+tours:
+#value in the tags with the id display timer
+  css: '#displaytimer'
